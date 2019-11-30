@@ -1,0 +1,5 @@
+-app/ImsSettings/ImsSettings.apk
+-priv-app/HotwordEnrollmentOKGoogleExCORTEXM4/HotwordEnrollmentOKGoogleExCORTEXM4.apk
+-priv-app/HotwordEnrollmentXGoogleExCORTEXM4/HotwordEnrollmentXGoogleExCORTEXM4.apk
+etc/nfcee_access.xml
+lib64/libaptX_encoder.so
